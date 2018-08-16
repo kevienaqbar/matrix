@@ -54,8 +54,9 @@ Example Default Config :
 
 
 
-### Example Output Matrix :
-![2018-08-16_07h10_38](https://user-images.githubusercontent.com/42184550/44179885-a7721900-a123-11e8-9f68-7a0da4bb7d5c.png)
+### Examples Output Matrix :
+![2018-08-16_15h30_11](https://user-images.githubusercontent.com/42184550/44197598-4a00bb00-a169-11e8-86eb-c08f22add5a7.png)
 
-![2018-08-16_07h11_16](https://user-images.githubusercontent.com/42184550/44179888-a93bdc80-a123-11e8-9a36-afcfb044d483.png)
+![2018-08-16_15h29_48](https://user-images.githubusercontent.com/42184550/44197607-4ff69c00-a169-11e8-9acc-bb78bf8808c5.png)
+
 
