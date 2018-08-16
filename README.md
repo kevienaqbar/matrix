@@ -4,6 +4,7 @@ Final Project Top 25 Collaboration Matrix RIN (Add File Config)
 Minimum Requirement :
 - Glassfish 4
 - Java JDK 8
+- PostgreSQL 9.2
 
 ### Test Deploying an Application From the Command Line
 
@@ -34,7 +35,7 @@ See Full Documentation Glassfish : [Doc Glassfish 4](https://javaee.github.io/gl
 
 
 ### Config Database
-Configure Script To Connect Database Server in File "config.json" at */matrix/resources/data/config.json*
+Configure Script To Connect Database PostgreSQL Server in File "config.json" at */matrix/resources/data/config.json*
 
 Example Default Config :
 
