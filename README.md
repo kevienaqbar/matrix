@@ -46,3 +46,13 @@ Example Default Config :
 - username = "username to access database"
 - password = "password to access database"
 - pathjsonfile = "folder location where json file is stored" *(normally it doesn't need to be changed)*
+
+
+
+
+
+### Example Output Matrix :
+![2018-08-16_07h10_38](https://user-images.githubusercontent.com/42184550/44179885-a7721900-a123-11e8-9f68-7a0da4bb7d5c.png)
+
+![2018-08-16_07h11_16](https://user-images.githubusercontent.com/42184550/44179888-a93bdc80-a123-11e8-9a36-afcfb044d483.png)
+
