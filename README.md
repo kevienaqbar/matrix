@@ -23,6 +23,8 @@ Minimum Requirement :
     To deploy the matrix.war sample, the command is:
 
     **as-install/bin/asadmin deploy sample-dir/matrix.war**
+    
+    Normally can be create in */domain1/applications/matrix/*
 
 5.	Access the matrix application by typing the following URL in your browser:
 
